@@ -1,0 +1,26 @@
+h1 {
+    color: blue;
+}
+
+main {
+    background-color: brown;
+}
+
+body {
+    background-color: aqua;
+}
+
+.snstyles {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: green;
+    color: yellow;
+}
+
+ul {
+    text-decoration: dotted;
+
+}
+
+li {
+    display: block;
+}
